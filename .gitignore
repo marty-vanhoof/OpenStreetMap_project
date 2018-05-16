@@ -1,0 +1,5 @@
+# files to ignore in local repository
+.ipynb_checkpoints/
+ClaringtonPlus.osm
+MapLink_and_references.txt
+case_study_lesson6.py
